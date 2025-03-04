@@ -3,13 +3,13 @@
 A simple, intuitive tool for creating pixel art directly in the browser. With an easy-to-use interface, this web app allows you to draw pixel art with precision, create your own designs, and export them in various formats. ✏️
 
 ## 📑 Table of Contents
-- [✨ Features](#features)
-- [💻 Demo](#demo)
-- [⚡ Installation](#installation)
-- [🛠️ Usage](#usage)
-- [🖥️ Technologies](#technologies)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
+- [✨ Features](#-features)
+- [💻 Demo](#-demo)
+- [⚡ Installation](#-installation)
+- [🛠️ Usage](#-usage)
+- [🖥️ Technologies](#-technologies)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ## ✨ Features
 - **Pixel Grid**: Create designs on a customizable grid. 🖍️
